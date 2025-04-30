@@ -56,7 +56,8 @@ Check out the live version here:
 👉 [Spotify Clone Live Demo](https://AsthaRajput26.github.io/SpotifyClone/)
 
  ## Screenshot of UI-
-![Screenshot (1)](https://github.com/user-attachments/assets/64abe528-403b-466a-9d2a-31ebd2d41fac)
+
+![Screenshot (1)](https://github.com/user-attachments/assets/9a17708d-0bcc-4b6e-9fcd-f8f41af56edd)
 
 
 
