@@ -1,6 +1,7 @@
 # SpotifyClone
 As part of learning to code,I completed a project that involved creating a basic Spotify clone using HTML, CSS, and JavaScript. This project was designed to showcase my skills in front-end web development.It is a responsive and user-friendly web application that allows users to play music.I used HTML and CSS to design and style the interface, and I implemented JavaScript to handle user input and interaction such as basic playback controls -play, pause, and next.I also gained experience working with version control tools such as Git and GitHub.
 
+
 ## Tech-Stack-
  
  <div align="left">
@@ -41,19 +42,17 @@ To run this project locally:
  - Seek: Allows the user to manually move forward or backward within a track by dragging a slider or clicking on a progress bar.
  - Display the currently playing song and album artwork.
 
+
  ## 📁 Project Structure
 
  SpotifyClone/ │ ├── index.html # Main HTML file ├── style.css # All styling ├── script.js # JavaScript functionality ├── assets/ # Images, icons, and audio files │ ├── images/ │ ├── icons/ │ └── music/ └── README.md # This file
  
+  
   ## Usage-
  
  Once the Spotify clone is open in your browser, You can then click the play button next to the song to start playing it, and use the playback controls at the bottom of the page to control the song playback.The currently playing song and album artwork are displayed in the "Now Playing" section at the bottom of the page.
 
- ## Live Demo
-
-
-Check out the live version here:  
-👉 [Spotify Clone Live Demo](https://AsthaRajput26.github.io/SpotifyClone/)
+ 
 
  ## Screenshot of UI-
 
